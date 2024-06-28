@@ -1,7 +1,5 @@
 # Sentiment-Analysis-of-The-Office
 
-# Sentiment Analysis of The Office
-
 ## Overview
 This project contains sentiment analysis of the TV show "The Office". The tasks include visualizing the relationship between sentiment scores and IMDB ratings, creating heatmaps, bar graphs, and word clouds using R.
 
